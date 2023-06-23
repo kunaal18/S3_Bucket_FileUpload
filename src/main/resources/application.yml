@@ -1,0 +1,15 @@
+cloud:
+  aws:
+    credentials:
+      access-key: AKIAWVZUI5PZUGTA3Q7E
+      secret-key: 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
+    region:
+      static: ap-south-1
+    stack:
+      auto: false
+      
+application:
+    bucket:
+      name: myfirstbucketkunal  
+server:
+  port: 8080 
